@@ -3,7 +3,7 @@
 #### Computer Science & Engineering
 
 
-I am passionate software engineer. I am studies computer science & engineering.I am spending much time improving my Computer Science &  Engineering skills. Every day I want to learn something new and share my knowledge with my classmate and others.
+I am passionate software engineer. I am studies at computer science & engineering.I am spending much time improving my Computer Science &  Engineering skills. Every day I want to learn something new and share my knowledge with my classmate and others.
 
 
 
