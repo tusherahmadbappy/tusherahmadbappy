@@ -1,4 +1,4 @@
-![Computer Science & Engineering](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/284800128_155784646960635_397191406871748262_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=LaRtpB93vnEAX_etWSL&_nc_ht=scontent.fdac24-1.fna&oh=00_AT9seHbv10hFCnFwi8Xy1B0TeAwyk15-z9UyLq8rNJvdxw&oe=629B1AEB)
+
 ### Hi there 👋, I am Md. Tusher Ahmad Bappy
 #### Computer Science & Engineering
 
